@@ -4,12 +4,11 @@ title: about
 permalink: /
 subtitle: Seattle, WA
 
-profile:
-  align: left
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Seattle, WA </p>
+# profile:
+  # align: left
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
+  # more_info: >
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
