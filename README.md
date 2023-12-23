@@ -3,6 +3,9 @@
 
 Using for running the Ruby on Rails for the portfolio repo. 
 
+Steps
+- Take out publication `h2` to `social class`
+- Find & replace all dev_portfolio with the repo name
 
 
 ### All Contributors
