@@ -5,8 +5,8 @@ permalink: /
 subtitle: Seattle, WA
 
 profile:
-  align: right
-  # image: prof_pic.jpg
+  align: left
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Seattle, WA </p>
