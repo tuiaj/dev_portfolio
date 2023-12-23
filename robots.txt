@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tuiaj.github.io/portfolio2//sitemap.xml
+Sitemap: https://tuiaj.github.io/dev_portfolio//sitemap.xml
