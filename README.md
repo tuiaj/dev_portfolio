@@ -1,6 +1,8 @@
 # Development portfolio
 [OG Design](alshedivat/al-folio)
 
+Using for running the Ruby on Rails for the portfolio repo. 
+
 
 
 ### All Contributors
